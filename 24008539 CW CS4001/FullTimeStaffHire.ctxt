@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=FullTimeStaffHire
+comment0.text=\n\ FullTimeStaffHire\:\ Adds\ salary\ and\ hours,\ and\ hire\ method\n\n\ @STA0472\n\ @25.7.25\ Resit\n
+comment1.params=vacancyNumber\ designation\ salary\ workingHours
+comment1.target=FullTimeStaffHire(int,\ java.lang.String,\ double,\ int)
+comment2.params=
+comment2.target=boolean\ isJoined()
+comment3.params=newSalary
+comment3.target=void\ setSalary(double)
+comment3.text=\nChange\ salary\ if\ nobody\u2019s\ hired\ yet
+comment4.params=name\ date\ qualification\ appointedBy
+comment4.target=void\ hireStaff(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment4.text=\nHire\ if\ vacancy\ is\ open
+comment5.params=
+comment5.target=void\ display()
+comment5.text=\nDisplay\ common\ vacancy\ info
+numComments=6

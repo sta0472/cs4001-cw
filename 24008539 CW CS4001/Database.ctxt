@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Database
+comment1.params=staff
+comment1.target=void\ add(StaffHire)
+comment2.params=index
+comment2.target=StaffHire\ getVacancy(int)
+comment3.params=
+comment3.target=void\ listAll()
+comment4.params=
+comment4.target=java.util.ArrayList\ getStaffList()
+comment4.text=\nReturns\ full\ list
+numComments=5

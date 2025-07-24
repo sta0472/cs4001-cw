@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PartTimeStaffHire
+comment0.text=\n\ PartTimeStaffHire\:\ manages\ wages,\ hours,\ shifts\ and\ terminate\ method\n\ @STA0472\n\ @25.7.25\ Resit\n
+comment1.params=vacancyNumber\ designation\ wagesPerHour\ workingHours\ shifts
+comment1.target=PartTimeStaffHire(int,\ java.lang.String,\ double,\ int,\ java.lang.String)
+comment2.params=name\ date\ qualification\ appointedBy
+comment2.target=void\ hireStaff(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=void\ terminateStaff()
+comment3.text=\n\ Terminates\ part\ time\ staff\ if\ already\ hired\n
+comment4.params=
+comment4.target=void\ display()
+numComments=5
